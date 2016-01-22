@@ -1,2 +1,0 @@
-# bodyweight-fitness
-bodyweight-fitness
